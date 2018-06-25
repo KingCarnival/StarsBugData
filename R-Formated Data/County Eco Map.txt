@@ -1,0 +1,114 @@
+County	NumberOfSamples	NumberOfSpecies	EcologicalRegionFourCount	EcologicalRegionSixCount	Area (km2)
+Adair	97	24	Central Dissected Till Plains	Glaciated Plains	"1,471"
+Andrew	70	42	Central Dissected Till Plains	Glaciated Plains	1127
+Atchison	1978	54	Central Dissected Till Plains	Glaciated Plains	1472
+Audrain	8	8	Central Dissected Till Plains	Glaciated Plains	1795
+Barry	1844	82	Ozark Highlands	Ozark	2018
+Barton	141	31	Osage Plains	Big Rivers	1538
+Bates	41	24	Osage Plains	Big Rivers	2196
+Benton	2236	79	Osage Plains	Ozark	1829
+Bollinger	123	43	Ozark Highlands	Ozark Border	"1,608"
+Boone	32213	88	Ozark Highlands	N/A	"1,774"
+Buchanan	68	34	Central Dissected Till Plains	Glaciated Plains	"1,062"
+Butler	104	49	Mississippi Alluvial Basin	N/A	"1,808"
+Caldwell	39	17	Central Dissected Till Plains	Glaciated Plains	"1,111"
+Callaway	46	26	Ozark Highlands	N/A	"2,173"
+Camden	33	13	Ozark Highlands	Ozark	"1,696"
+Cape Girardeau	2233	82	Ozark Highlands	Ozark Border	"1,500"
+Carroll	6	7	Central Dissected Till Plains	Glaciated Plains	"1,800"
+Carter	1548	74	Ozark Highlands	Ozark	"1,316"
+Cass	46	21	Osage Plains	Big Rivers	"1,810"
+Cedar	190	32	Ozark Highlands	Ozark	"1,233"
+Chariton	5	4	Central Dissected Till Plains	Glaciated Plains	"1,958"
+Christian	67	33	Ozark Highlands	Ozark	"1,458"
+Clark	3	3	Central Dissected Till Plains	Glaciated Plains	"1,313"
+Clay	1074	66	Central Dissected Till Plains	Glaciated Plains	"1,026"
+Clinton	111	36	Central Dissected Till Plains	Glaciated Plains	"1,085"
+Cole	44	22	Ozark Highlands	Ozark Border	"1,015"
+Cooper	51	20	Ozark Highlands	Ozark Border	"1,463"
+Crawford	176	45	Ozark Highlands	Ozark	"1,924"
+Dade	50	20	Ozark Highlands	Ozark	"1,269"
+Dallas	49	35	Ozark Highlands	Ozark	"1,404"
+Daviess	24	7	Central Dissected Till Plains	Glaciated Plains	"1,469"
+DeKalb	7	3	Central Dissected Till Plains	Glaciated Plains	"1,098"
+Dent	144	42	Ozark Highlands	Ozark	"1,953"
+Douglas	9777	78	Ozark Highlands	Ozark	"2,111"
+Dunklin	130	37	Mississippi Alluvial Basin	Mississippi Lowlands	"1,414"
+Franklin	736	68	Ozark Highlands	Ozark Border	"2,388"
+Gasconade	27	19	Ozark Highlands	Ozark Border	
+Greene	123	34	Ozark Highlands	Ozark	
+Grundy	1609	54	Central Dissected Till Plains	Glaciated Plains	
+Harrison	8	5	Central Dissected Till Plains	Glaciated Plains	
+Henry	52	25	Ozark Highlands	Ozark	
+Hickory	172	44	Ozark Highlands	Ozark	
+Holt	83	44	Central Dissected Till Plains	Glaciated Plains	
+Howard	42	24	Ozark Highlands	Ozark Border	
+Howell	75	37	Ozark Highlands	Ozark	
+Iron	86	47	Ozark Highlands	Ozark	
+Jackson	599	63	Osage Plains	Glaciated Plains	
+Jasper	1577	84	Ozark Highlands	Ozark	
+Jefferson	774	83	Ozark Highlands	Ozark Border	
+Johnson	195	34	Osage Plains	Big Rivers	
+Knox	13	8	Central Dissected Till Plains	Glaciated Plains	
+Laclede	629	58	Ozark Highlands	Ozark	
+Lafayette	73	29	Central Dissected Till Plains	Glaciated Plains	
+Lawrence	66	38	Ozark Highlands	Ozark	
+Lewis	963	64	Ozark Highlands	Glaciated Plains	
+Lincoln	151	36	Central Dissected Till Plains	Glaciated Plains	
+Linn	582	42	Central Dissected Till Plains	Glaciated Plains	
+Livingston	4	11	Central Dissected Till Plains	Glaciated Plains	
+Macon	4	3	Central Dissected Till Plains	Glaciated Plains	
+Madison	66	34	Ozark Highlands	Ozark	
+Maries	54	35	Ozark Highlands	Ozark	
+McDonald	7	9	Ozark Highlands	Ozark	
+Mercer	9	6	Central Dissected Till Plains	Glaciated Plains	
+Miller	18	12	Ozark Highlands	Ozark	
+Mississippi	76	38	Mississippi Alluvial Basin	Mississippi Lowlands	
+Moniteau	11	9	Ozark Highlands	Ozark Border	
+Monroe	119	13	Central Dissected Till Plains	Glaciated Plains	
+Montgomery	220	48	Ozark Highlands	Glaciated Plains	
+Morgan	1234	60	Ozark Highlands	N/A	
+New Madrid	44	31	Mississippi Alluvial Basin	Mississippi Lowlands	
+Newton	242	46	Ozark Highlands	Ozark	
+Nodaway	41	14	Central Dissected Till Plains	Glaciated Plains	
+Oregon	180	50	Central Dissected Till Plains	Ozark	
+Osage	37	23	Ozark Highlands	Ozark Border	
+Ozark	53	31	Ozark Highlands	Ozark	
+Pemiscot	163	35	Mississippi Alluvial Basin	Mississippi Lowlands	
+Perry	44	29	Ozark Highlands	Ozark Border	
+Pettis	55	21	Osage Plains	N/A	
+Phelps	354	71	Ozark Highlands	Ozack	
+Pike	1128	34	Central Dissected Till Plains	Glaciated Plains	
+Platte	209	48	Central Dissected Till Plains	Glaciated Plains	
+Polk	18	12	Ozark Highlands	Ozark	
+Pulaski	42	11	Ozark Highlands	Ozark	
+Putnam	5	5	Central Dissected Till Plains	Glaciated Plains	
+Ralls	9	15	Central Dissected Till Plains	Glaciated Plains	
+Randolph	454	71	Central Dissected Till Plains	Glaciated Plains	
+Ray	7	4	Central Dissected Till Plains	Glaciated Plains	
+Reynolds	918	63	Ozark Highlands	Ozark	
+Ripley	372	61	Ozark Highlands	Ozark	
+Saint Charles	125	47	Ozark Highlands	N/A	
+Saint Clair	101	36	Osage Plains	N/A	
+Saint Francois	103	44	Ozark Highlands	N/A	
+Saint Genevieve	1547	75	Ozark Highlands	Ozark Border	
+Saint Louis	2561	96	Ozark Highlands	Ozark Border	
+Saline	26	15	Central Dissected Till Plains	Glaciated Plains	
+Schuyler	0	1	Central Dissected Till Plains	Glaciated Plains	
+Scotland	3	4	Central Dissected Till Plains	Glaciated Plains	
+Scott	135	33	Mississippi Alluvial Basin	Mississippi Lowlands	
+Shannon	241	58	Ozark Highlands	Ozark	
+Shelby	0	4	Central Dissected Till Plains	Glaciated Plains	
+State	39	60	Ozark Highlands	Ozark	
+Stoddard	1084	74	Mississippi Alluvial Basin	Mississippi Lowlands	
+Stone	59	30	Ozark Highlands	Ozark	
+Sullivan	38	14	Central Dissected Till Plains	Glaciated Plains	
+Taney	62	30	Ozark Highlands	Ozark	
+Texas	230	57	Ozark Highlands	Ozark	
+Vernon	55	30	Osage Plains	Big Rivers	
+Warren	175	58	Ozark Highlands	Ozark Border	
+Washington	604	55	Ozark Highlands	Ozark	
+Wayne	3213	89	Ozark Highlands	Ozark	
+Webster	73	38	Ozark Highlands	Ozark	
+Worth	1	1	Central Dissected Till Plains	Glaciated Plains	
+Wright	459	68	Central Dissected Till Plains	Ozark	
